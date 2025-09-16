@@ -1,0 +1,7 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+transformers==4.40.0
+sentence-transformers==2.2.2
+scikit-learn==1.2.2
+pandas==2.1.2
+jsonschema==4.19.0
